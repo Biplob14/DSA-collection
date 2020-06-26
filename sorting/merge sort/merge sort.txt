@@ -1,0 +1,3 @@
+Divide and conquere method
+time complexity = O(n)
+space complexity = O(n log n)
