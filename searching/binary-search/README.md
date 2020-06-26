@@ -7,6 +7,7 @@ Animated view of Binary search working procedure
 
 
 ![Binary search tree](bePceUMnSG-binary_search_gif.gif)
+
 Image courtesy: [Brilliant.org](https://brilliant.org/wiki/binary-search/)
 
 Binary search working tree
