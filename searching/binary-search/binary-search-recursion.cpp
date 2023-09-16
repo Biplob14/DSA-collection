@@ -4,6 +4,8 @@ using namespace std;
 int binary_srch(int arr[], int left, int right, int key){
     int mid = left + (right - left) / 2;
 
+    if (left == right)
+        return -1;
     if (arr[mid] == key)
         return mid + 1;
     if (arr[mid] > key)
